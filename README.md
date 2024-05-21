@@ -44,8 +44,10 @@
 *I downloaded the dataset and uploaded the data using the "Get Data" option in 
 Power BI. Then, I utilized the "Transform" option to check for any null values 
 in the dataset*
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### HR Attrition Dashboards
+### HR Attrition Dashboard 1
+
 **DEMOGRAPHICS**
 
 *A demographic report summarizes employee statistic, including age groups, gender, distance from home, and marital status, providing insights  into workforce diversity and commuting patterns for informed decision-making.*
@@ -128,6 +130,64 @@ Choose the column u want to group
 ### STEP 6: **Gender count using donut chart.**
 
 <img width="152" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/9a10c702-2765-45da-b1b8-fad04f317cb3">   <img width="314" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/a15997ac-c9c3-4d01-8e68-36693b6561f5">
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### HR Attrition Dashboard 2
+
+ **TURNOVER ANALYSIS 1**
+
+<img width="619" alt="turn1" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/e77d6207-28a7-4544-886c-1c67009f7cfd">
+
+
+
+**STEP 1:** 
+**Total attrition by job role.**
+
+<img width="764" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/ba93e672-16ea-4098-971d-fb61f6ddb48d"> <img width="136" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/228dbbf0-15a9-4f08-9960-72fb1bc49956">
+
+
+**STEP 2:**
+
+- **Total attrition by business travel by stacked column chart.**
+
+  <img width="796" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/d9dc0f79-726c-4fe6-a2a0-6fdfc089e127">
+
+- **Total attrition by department using the donut chart**.
+
+  <img width="793" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/9a70095d-c5e0-44d1-968a-89db4eb09810">
+
+- **Total attrition by years in current role using stacked column chart**
+
+  <img width="797" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/c86827bd-460f-4c74-9d2b-2731f623dfd3">
+
+-  **Total attrition by job role**
+
+  <img width="284" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/dcb2c94f-1388-4988-8328-686550a9b7a1"> <img width="131" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/f6685134-13b8-410a-ad45-8c3b5c4053b0">
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### HR Attrition Dashboard 3
+
+**TURNOVER ANALYSIS 2**
+
+<img width="658" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/2b6be736-b175-43df-b964-36303dba5f58">
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### HR Attrition Dashboard 4
+
+**EMPLOYEE WELLNESS**
+
+<img width="618" alt="image" src="https://github.com/Kelvinzx/HR_Analystics_Meriskill/assets/147884934/5e5443e8-2550-417d-9af4-30ceb097f8e2">
+
+
+
+
+
+
+
+
+
+
 
 
 
